@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB-lesn02prt01v2", "GB-lesn02prt01v2\GB-lesn02prt01v2.csproj", "{14A5AD26-80E7-4C04-ACA7-5925622D9505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB-Lesson2prt2", "..\..\GB-lesn02prt02\GB-Lesson2prt2\GB-Lesson2prt2.csproj", "{9EFAC7D9-E587-497F-9CAA-0FA59369D3EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB-Lesson2prt2", "..\..\GB-lesn02prt02\GB-Lesson2prt2\GB-Lesson2prt2.csproj", "{9EFAC7D9-E587-497F-9CAA-0FA59369D3EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
