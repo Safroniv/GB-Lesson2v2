@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB_Lesson2prt3", "..\..\GB-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB-lesn02prt04", "..\..\GB-lesn02prt04\GB-lesn02prt04\GB-lesn02prt04.csproj", "{5EF07C71-04E9-48EF-A164-8B541173453A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB-lesn02prt05v2", "..\..\GB-lesn02prt05v2\GB-lesn02prt05v2\GB-lesn02prt05v2.csproj", "{3C84C561-5103-4D65-9D24-F9A8ED8232AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB-lesn02prt05v2", "..\..\GB-lesn02prt05v2\GB-lesn02prt05v2\GB-lesn02prt05v2.csproj", "{3C84C561-5103-4D65-9D24-F9A8ED8232AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB-lesn02prt06v1", "..\..\GB-lesn02prt06v1\GB-lesn02prt06v1\GB-lesn02prt06v1.csproj", "{4B33A6CD-4BB0-4411-B65E-C5E6F369DD29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{3C84C561-5103-4D65-9D24-F9A8ED8232AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C84C561-5103-4D65-9D24-F9A8ED8232AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C84C561-5103-4D65-9D24-F9A8ED8232AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B33A6CD-4BB0-4411-B65E-C5E6F369DD29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B33A6CD-4BB0-4411-B65E-C5E6F369DD29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B33A6CD-4BB0-4411-B65E-C5E6F369DD29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B33A6CD-4BB0-4411-B65E-C5E6F369DD29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
