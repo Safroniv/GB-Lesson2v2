@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB-Lesson2prt2", "..\..\GB-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB_Lesson2prt3", "..\..\GB-lesn02prt03\GB_Lesson2prt3\GB_Lesson2prt3.csproj", "{A37EA5DE-7505-4E7C-95D3-78A120A4EBD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB-lesn02prt04", "..\..\GB-lesn02prt04\GB-lesn02prt04\GB-lesn02prt04.csproj", "{5EF07C71-04E9-48EF-A164-8B541173453A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB-lesn02prt04", "..\..\GB-lesn02prt04\GB-lesn02prt04\GB-lesn02prt04.csproj", "{5EF07C71-04E9-48EF-A164-8B541173453A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB-lesn02prt05v2", "..\..\GB-lesn02prt05v2\GB-lesn02prt05v2\GB-lesn02prt05v2.csproj", "{3C84C561-5103-4D65-9D24-F9A8ED8232AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5EF07C71-04E9-48EF-A164-8B541173453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EF07C71-04E9-48EF-A164-8B541173453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EF07C71-04E9-48EF-A164-8B541173453A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C84C561-5103-4D65-9D24-F9A8ED8232AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C84C561-5103-4D65-9D24-F9A8ED8232AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C84C561-5103-4D65-9D24-F9A8ED8232AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C84C561-5103-4D65-9D24-F9A8ED8232AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
