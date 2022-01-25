@@ -32,36 +32,38 @@ namespace WorkDaysOfOffece
             DaysOfWeek office06 = (DaysOfWeek)0b_1101101;
             DaysOfWeek office07 = (DaysOfWeek)0b_0111110;
 
+           
             Console.WriteLine("Здравствуйте, введите пожалуйста порядковый номер офиса:");
             //Пользователь вводит номер офиса
             int num = int.Parse(Console.ReadLine());
             switch (num)
             {
                 case 1:
-                    Console.WriteLine("Офис #1. \nРабочие дни офиса: " + office01 +".");
+                    Console.WriteLine($"Офис #{num}. \nРабочие дни офиса: \n{office01}.");
                     break;
                 case 2:
-                    Console.WriteLine("Офис #2. \nРабочие дни офиса: " + office02 +".");
+                    Console.WriteLine($"Офис #{num}. \nРабочие дни офиса: \n{office02}.");
                     break;
                 case 3:
-                    Console.WriteLine("Офис #3. \nРабочие дни офиса: " + office03 + ".");
+                    Console.WriteLine($"Офис #{num}. \nРабочие дни офиса: \n{office03}.");
                     break;
                 case 4:
-                    Console.WriteLine("Офис #4. \nРабочие дни офиса: " + office04 + ".");
+                    Console.WriteLine($"Офис #{num}. \nРабочие дни офиса: \n{office04}.");
                     break;
                 case 5:
-                    Console.WriteLine("Офис #5. \nРабочие дни офиса: " + office05 + ".");
+                    Console.WriteLine($"Офис #{num}. \nРабочие дни офиса: \n{office05}.");
                     break;
                 case 6:
-                    Console.WriteLine("Офис #6. \nРабочие дни офиса: " + office06 + ".");
+                    Console.WriteLine($"Офис #{num}. \nРабочие дни офиса: \n{office06}.");
                     break;
                 case 7:
-                    Console.WriteLine("Офис #7. \nРабочие дни офиса: " + office07 + ".");
+                    Console.WriteLine($"Офис #{num}. \nРабочие дни офиса: \n{office07}.");
                     break;
                 //указания кейса по умолчанию, если пользователь ввёл значение за рамками 1-7
                 default:
                     Console.WriteLine("Извините, но у нас в организации всего 7 офисов");
                     break;
+                    
             }
         }
     }
